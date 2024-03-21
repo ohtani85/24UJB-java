@@ -12,6 +12,7 @@ public class IntExample {
 		
 		System.out.printf("8진수 : 0%o\n", var2);
 		System.out.printf("16진수 : 0x%x\n", var3);
+		System.out.printf("10진수 : %d\n", var3);
 	}
 
 }
