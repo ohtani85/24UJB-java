@@ -2,7 +2,7 @@ package d0322;
 
 public class IfExample {
 	public static void main(String[] args) {
-		int score = 95;
+		int score = 75;
 		
 		if(score >= 90) {
 			System.out.println("A");
