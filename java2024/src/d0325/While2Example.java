@@ -6,8 +6,8 @@ public class While2Example {
 		while (i <= 10) {
 			System.out.println(i);
 			i++;
-			
-			if(i == 5) {
+
+			if (i == 5) {
 				break;
 			}
 		}
