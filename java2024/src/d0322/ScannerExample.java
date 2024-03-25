@@ -25,6 +25,8 @@ public class ScannerExample {
 			break;
 		}
 		
+		scanner.close();
+		
 		System.out.println("출력 문자열: " + data);
 		System.out.println();
 	}
