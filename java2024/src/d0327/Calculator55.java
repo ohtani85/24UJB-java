@@ -10,6 +10,7 @@ public class Calculator55 {
 	    
 	    static int minus(int x, int y) {
 	        return x - y;
+	       
 	        
 	    }
-	}
+	}‹
